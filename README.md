@@ -1,2 +1,4 @@
 # MyFolio
- A portfolio design like Youtube.
+ A Portfolio based web design inspired like Youtube.
+
+ Link: http://snakedtrebla.github.io
